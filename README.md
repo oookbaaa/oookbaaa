@@ -136,15 +136,12 @@
 
 
 
-
 ## ❤️ Let's get connected:
 
 <p><a href="https://www.instagram.com/bedhiafi.okba" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🤝 Support Me:
 
-<a href="https://buymeacoffee.com/bedhiafi00d" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 ## 📊 Stats:
 
